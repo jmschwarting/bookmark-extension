@@ -1,0 +1,17 @@
+body {
+	width: 400px;
+
+	font-size: 12px;
+}
+
+a:link, a:visited {
+	color: red;
+}
+
+a:hover {
+	color: green;
+}
+
+a:active {
+	color: blue;
+}
