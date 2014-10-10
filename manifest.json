@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+
+	"name": "Bass Monkey",
+	"description": "View your bookmarks in lists, just like a bass monkey does.",
+	"version": "0.1",
+
+	"permissions": [
+		"tabs"
+	],
+	"browser_action": {
+		"default_icon": "images/icon.png",
+		"default_popup": "popup.html"
+	}
+}
